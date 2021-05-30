@@ -1,16 +1,15 @@
-### Hi there 👋
+<!-- <img src="https://raw.githubusercontent.com/saadpasta/saadpasta/master/Banner%20%20(1).png"/>
+ <hr></hr> -->
+<p align="center">
+  <samp>
+    Hi, I'm Rohit Ukirde! 👋 <br>
+    🔥 29 Year's Old Software Developer grinding hard to make something cool  <br>
+    :sparkles: Favorite Tech: JavaScript, React, Typescript... <br>
+    :email:	ukirderohit@gmail.com <br>
+    :art: Portfolio: https://ukirderohit.com <br>
+    :briefcase: LinkedIn: https://linkedin.com/in/ukirderohit <br>
+    🔭 I’m currently working on job portal feature addition for archslate. <br>
+    🌱 I’m currently learning Algorithms
+  </samp>
+</p>
 
-<!--
-**ukirderohit/ukirderohit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
