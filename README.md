@@ -1,5 +1,5 @@
-<!-- <img src="https://raw.githubusercontent.com/saadpasta/saadpasta/master/Banner%20%20(1).png"/>
- <hr></hr> -->
+<img src="https://raw.githubusercontent.com/ukirderohit/ukirderohit/master/banner.png"/>
+ <hr></hr>
 <p align="center">
   <samp>
     Hi, I'm Rohit Ukirde! 👋 <br>
